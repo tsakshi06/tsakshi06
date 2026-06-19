@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sakshi 👋
 
-<!--
-**tsakshi06/tsakshi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. IT Student
+🎓 B.Sc. IT Graduate
 
-Here are some ideas to get you started:
+💻 Skills:
+- Python
+- HTML
+- CSS
+- JavaScript
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- Digital Closet
+- Weather Forecast App
+
+🌱 Currently Learning:
+- Python Development
+- Git & GitHub
+
+📫 Open to Internship Opportunities
